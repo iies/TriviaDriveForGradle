@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res" >
+            <file
+                name="ic_action_search"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-hdpi/ic_action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-mdpi/ic_action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="buy_gas"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/buy_gas.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drive"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/drive.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="free"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/free.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gas0"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/gas0.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gas1"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/gas1.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gas2"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/gas2.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gas3"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/gas3.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gas4"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/gas4.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gas_inf"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/gas_inf.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="infinite_gas"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/infinite_gas.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="premium"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/premium.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="title"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/title.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="upgrade_app"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/upgrade_app.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="wait"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/drawable-xhdpi/wait.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/menu/activity_main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_activity_main" >TrivialDrive
+                </string>
+                <string name="app_name" >TrivialDrive
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+            </file>
+            <file
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Black.NoTitleBar" />
+            </file>
+            <file
+                path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.NoActionBar" />
+            </file>
+        </source>
+        <source path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/build/res/rs/debug" />
+        <source path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/eye/AndroidStudioProjects/TrivialDrive/app/src/debug/res" />
+    </dataSet>
+
+</merger>
